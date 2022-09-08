@@ -1,1 +1,1 @@
-# practice_cert1
+Simple demo of Jest
